@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DetailsView renders correctly and matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="details-container"
+  >
+    <h1
+      class="details-title"
+    >
+      Mock University
+    </h1>
+    <table
+      class="details-table"
+    >
+      <tbody>
+        <tr>
+          <th>
+            Country
+          </th>
+          <td>
+            Mock Country
+          </td>
+        </tr>
+        <tr>
+          <th>
+            Web Pages
+          </th>
+          <td>
+            http://www.mockuniversity.com
+          </td>
+        </tr>
+        <tr>
+          <th>
+            Domains
+          </th>
+          <td>
+            mockuniversity.com
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</DocumentFragment>
+`;
