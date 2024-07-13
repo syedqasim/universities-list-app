@@ -1,3 +1,5 @@
+University Listings
+
 Overview
 This web application allows users to view a list of universities in the United Arab Emirates, search for specific universities, sort the list alphabetically, and view details of individual universities. The application is built using React with TypeScript, following the Model-View-Controller (MVC) architecture, and it uses the Fetch API for data retrieval.
 
